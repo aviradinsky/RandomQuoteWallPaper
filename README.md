@@ -10,7 +10,7 @@ Python3
 \
 [feedparser](https://pypi.org/project/feedparser/)
 \
-[PIL](https://pypi.org/project/Pillow/)
+[Pillow](https://pypi.org/project/Pillow/)
 ```bash
 pip install feedparser Pillow
 ```
