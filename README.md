@@ -1,4 +1,5 @@
-# RandomQuoteWallPaper
+# Random Quote Wallpaper
+![](screenshot.png)
 A [Python3](https://python.org) program to create and set a wallpaper with a random quote.
 Quotes are courtesy of [BrainyQuote](https://brainyquote.com).
 \
