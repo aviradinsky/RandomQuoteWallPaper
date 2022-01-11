@@ -17,5 +17,6 @@ pip install feedparser Pillow
 ### Run
 ```bash
 # clone the repo
-python3 RandomQuoteWallPaper\main.py
+cd RandomQuoteWallPaper
+python3 main.py
 ```
